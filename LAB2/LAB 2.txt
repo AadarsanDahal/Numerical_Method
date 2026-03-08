@@ -1,0 +1,13 @@
+LAB 2 
+Numerical interpolation and regrattion 
+
+Write a program to impliment 
+    Language interpolation 
+    Newtons Divide and difference Interpolation 
+    Newtons Forward interpolation 
+    Curve fitting 
+        Linear
+        Exponentaial 
+
+
+    
