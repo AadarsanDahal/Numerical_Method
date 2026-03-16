@@ -1,0 +1,5 @@
+/*Curve fitting 
+        Linear
+        Exponential */
+
+        
