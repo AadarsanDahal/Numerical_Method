@@ -1,0 +1,9 @@
+Numerical integration and derivation 
+    Write a program to impliment 
+        derivative of a function 
+        Integration using 
+            trapozide method 
+            simpsons 1/3 method 
+            simpsons 3/8 method 
+            rosberg integration 
+            
